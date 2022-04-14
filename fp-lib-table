@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "W25Q32JVSFIQ")(type "KiCad")(uri "${PRJ_CMPNT_PATH}/W25Q32JVSFIQ.pretty")(options "")(descr ""))
+  (lib (name "custom_nucleo_144")(type "KiCad")(uri "${PRJ_CMPNT_PATH}/nucleo_144.pretty")(options "")(descr ""))
+  (lib (name "logos")(type "KiCad")(uri "${PRJ_CMPNT_PATH}/logos.pretty")(options "")(descr ""))
+)
